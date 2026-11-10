@@ -1,7 +1,7 @@
 ---
 name: deal-source-audit
 description: Find out why HubSpot deals have no useful source and what to fix. Use when the user says their deals show "Offline sources" or "Direct traffic", asks why deals have no source, wants to audit lead source or original source on deals, asks "where do our deals come from", or wants to know how much of their pipeline can be traced to a marketing channel.
-version: 0.1.1
+version: 0.1.2
 ---
 
 # Deal source audit for HubSpot

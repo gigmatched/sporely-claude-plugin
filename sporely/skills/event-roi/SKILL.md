@@ -1,7 +1,7 @@
 ---
 name: event-roi
 description: Measure what a conference, trade show, webinar, sponsorship or other offline campaign brought in, using a HubSpot list of the people reached. Use when the user asks for event ROI, trade show ROI, sponsorship ROI, "what did that conference bring in", "which deals came from the event", influenced pipeline for a campaign or list, or cost per deal for an event. Works on HubSpot Starter and Professional; it does not need HubSpot's Enterprise attribution reports.
-version: 0.1.1
+version: 0.1.2
 ---
 
 # Event and campaign ROI from a HubSpot list

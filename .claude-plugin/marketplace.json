@@ -3,7 +3,7 @@
   "owner": { "name": "Sporely", "url": "https://sporely.io" },
   "metadata": {
     "description": "Marketing attribution skills for HubSpot teams: event ROI, deal source audits and pipeline by source, plus the Sporely connector.",
-    "version": "0.1.1"
+    "version": "0.1.2"
   },
   "plugins": [
     {
