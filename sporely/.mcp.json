@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sporely": {
+      "type": "http",
+      "url": "https://sporely.io/mcp"
+    }
+  }
+}
