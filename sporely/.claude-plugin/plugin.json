@@ -1,6 +1,6 @@
 {
   "name": "sporely",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Marketing attribution for HubSpot teams: event and campaign ROI from a HubSpot list, deal source audits, created pipeline by marketing source, and your Sporely board. No Marketing Hub Enterprise needed.",
   "author": { "name": "Sporely", "url": "https://sporely.io" },
   "homepage": "https://sporely.io/integrations/claude",

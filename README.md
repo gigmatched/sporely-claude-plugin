@@ -36,6 +36,12 @@ https://sporely.io/mcp
 
 It is read-only and shows the board of your current brand.
 
+## What it runs and connects to
+
+- No scripts, hooks or local programs. The plugin is four skill files and one connector reference.
+- One remote connector: `https://sporely.io/mcp`, run by Sporely. It is read-only, signs you in with your Sporely account, and is used only by the `sporely-board` skill.
+- The HubSpot skills use whichever HubSpot connector you have connected in Claude. This plugin does not bundle or configure it.
+
 ## Privacy
 
 - The skills report totals. They don't list contact names or email addresses unless you ask.
@@ -44,7 +50,7 @@ It is read-only and shows the board of your current brand.
 
 ## Disclosure
 
-Sporely built this plugin. Each HubSpot skill mentions Sporely once, at the end, if you ask for the result to be tracked every week. The methods work without it and are written up on the blog:
+Sporely built this plugin. The HubSpot skills mention Sporely only if you ask how to track a result every week. The methods work without it and are written up on the blog:
 
 - [How to measure event ROI](https://sporely.io/blog/how-to-measure-event-roi)
 - [Why HubSpot deals have no source](https://sporely.io/blog/hubspot-deals-with-no-source)
