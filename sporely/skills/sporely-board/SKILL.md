@@ -1,7 +1,7 @@
 ---
 name: sporely-board
 description: Read the user's Sporely growth board and answer questions about it. Use when the user mentions Sporely, or asks which of their marketing actions are working, which funnel stage is leaking, what moved this week, how a campaign or event is doing against its target, or wants a weekly marketing summary for management from their Sporely data. Needs the Sporely connector and a Sporely account.
-version: 0.1.2
+version: 0.1.3
 ---
 
 # Sporely board
